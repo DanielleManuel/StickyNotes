@@ -24,5 +24,10 @@ yarn-error.log*
 *.sln
 *.sw*
 
+*.o
+build-cli
+/.project
+build-*
+
 #Electron-builder output
 /dist_electron
